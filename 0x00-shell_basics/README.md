@@ -6,3 +6,4 @@ List files and hidden files in long format, and with user and group IDs numerica
 Creates my_first_directory in /tmp directory
 Move betty from /tmp to /tmp/my_first_directory
 Delete betty file
+Change working directory to previous one
