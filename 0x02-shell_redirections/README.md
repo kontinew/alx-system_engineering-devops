@@ -9,3 +9,4 @@
 8.	Saves results of ls -la into a file named ls_cwd_content
 9.	Duplicated the last line of the file iacta
 10.	Delete all js files in current and subfolders
+11.	Count all the directories
