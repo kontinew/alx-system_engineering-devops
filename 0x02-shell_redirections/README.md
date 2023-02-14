@@ -7,3 +7,4 @@
 6.	Display the third line of iacta
 7.	A file containing "Best School"
 8.	Saves results of ls -la into a file named ls_cwd_content
+9.	Duplicated the last line of the file iacta
