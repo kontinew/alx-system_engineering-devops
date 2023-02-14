@@ -1,2 +1,3 @@
-1.	Display "Hello, World" and a new line
-2.	Displays "(Ôo)'
+0.	Prints "Hello, World"
+1.	Displays confused smiley
+2.	Display content of /etc/passwd
